@@ -1,1 +1,8 @@
 /venv/
+
+# env
+.env
+.envrc
+
+# sample
+/sample/
